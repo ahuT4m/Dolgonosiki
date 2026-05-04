@@ -1,2 +1,2 @@
-def shto():
-    pass
+def chto(a, b):
+    return a + b 
