@@ -1,0 +1,2 @@
+def shto():
+    pass
